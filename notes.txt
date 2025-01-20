@@ -1,0 +1,8 @@
+- multiple use effect 
+- page component should not have logical part it should sepertaed in component and hooks
+- code is not readable without comments
+- code is not reusable 
+- it will become hard to maintain when component scope increases
+- no seperation concern 
+- it will face performance issue when app scope is high
+-  
